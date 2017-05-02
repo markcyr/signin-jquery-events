@@ -12,3 +12,4 @@
 7. (Advanced) When the user clicks `.submit`, only add the `.error` class to the elements that have a `val()` of "" (blank, meaning any text will prevent an error)
 8. What happens if the user just adding spaces to the field? Find a function that will trim off the white spaces in a field to validate it.
 9. (Advanced) Try validating a field by adding/removing `.error` immediately after the cursor leaves one of the individual `<input>` (rather than on submit)
+.
